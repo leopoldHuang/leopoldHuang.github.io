@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: visite my <a href='https://github.com/leopoldHuang'>Github</a>
+subtitle: visite my <a href='https://github.com/leopoldHuang'>Github repositories</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>taken at Ningbo, Zhejiang</p>
+    <p>taken at 浙江 宁波</p>
     <p>by @Moving</p>
-    <p>(this's me, of course</p>
+    <p>(没错这是本人</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
