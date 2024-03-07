@@ -18,8 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+一个程序员/摄影师的云上小家
+爱好摄影，在玩胶片，喜欢听周杰伦
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+`repositories`这里有一些我参与/创建的项目仓库，`blogs`里有我写的文字，以及我拍的摄影作品在`projects`中
+哦，还有我的简历`cv`，如果您想看的话
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+我会尽量每周更新，将我看到的值得分享的东西分享出来
+
+最后，欢迎大家常来我家坐坐
