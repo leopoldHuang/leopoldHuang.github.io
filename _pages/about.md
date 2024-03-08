@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>taken at 浙江宁波</p>
-    <p>by <a href="mailto:moving7momo@gmail.com"/@Moving</a></p>
+    <p>by <a href="mailto:moving7momo@gmail.com">@Moving</a></p>
     
 
 news: true # includes a list of news items
