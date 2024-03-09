@@ -1,4 +1,5 @@
 _site
+_post_example
 .bundle
 .sass-cache
 .jekyll-cache
