@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: visite my <a href='https://github.com/leopoldHuang'>Github repositories</a>
+subtitle: 恭喜你发现（未来的）宝藏网站
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 一个程序员/摄影师的云上小家<br>
-爱好摄影，在玩胶片，喜欢听周杰伦
+爱好摄影，喜欢玩胶片，喜欢听周杰伦
 
 `repositories`这里有一些我参与/创建的项目仓库<br>
 `blogs`里有我写的文字<br>
