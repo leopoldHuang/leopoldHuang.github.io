@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leopoldHuang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - leopoldHuang/Intranet-chatroom
+  - leopoldHuang/wxapp_studyAssis
+  - Little-devil-cat/HDUSoftware_Engineering-Simulation-bilibili-
+
