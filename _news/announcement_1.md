@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-这是一条通知
+这是一条示例通知
