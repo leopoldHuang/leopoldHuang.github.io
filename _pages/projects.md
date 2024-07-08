@@ -5,7 +5,7 @@ permalink: /projects/
 description: 有趣的照片
 nav: true
 nav_order: 3
-display_categories: [outing, daily]
+display_categories: [outing, daily, event]
 horizontal: false
 ---
 

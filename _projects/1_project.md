@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 毕业照
+description: 有很多很多很多很多
 img: assets/img/12.jpg
 importance: 1
-category: outing
-related_publications: true
+category: event
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
