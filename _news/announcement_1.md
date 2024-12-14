@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-更新内容：增加评论区，可登录Github账号发表评论
+我增加了一点评论区，这样你才知道你正在进行网上冲浪
